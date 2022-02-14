@@ -8,7 +8,7 @@ _Cada módulo (hasta ahora) cuenta con katas a realizar por los miembros. El Jup
 
 * Python
 
-### Authors ✒️
+### Autores ✒️
 
 * ***@RiviCodes***
 
